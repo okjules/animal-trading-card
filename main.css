@@ -1,0 +1,32 @@
+body {
+	font-family: 'Comic Sans', sans-serif;
+}
+.trading-card-whole{
+  border-style: outset;
+  width: 350px;
+  padding-left: 25px;
+  padding-right: -10px;
+}
+.cat-image {
+  border-style: ridge;
+}
+.trading-card-textcontent {
+  background-color: #EFEFEF;
+  border-style: ridge;
+  width: 283px;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.interesting-fact {
+  font-style: italic;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.label {
+  font-weight: bold;
+}
